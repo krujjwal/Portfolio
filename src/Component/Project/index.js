@@ -34,12 +34,6 @@ export default function Project() {
           </div>
         </div>
       </div>
-
-
-
-
-      
-
       <div className="text-secondary flex items-start justify-center mt-48">
         <div className="w-10/12 flex flex-col ">
           {/* <div className="flex flex-col w-100 bg-pink ">
